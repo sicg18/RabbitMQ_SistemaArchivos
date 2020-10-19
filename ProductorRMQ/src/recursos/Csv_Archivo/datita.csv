@@ -1,0 +1,556 @@
+﻿idproducto,nombreproducto,precioproducto,nombrecategoria,descuento,idtienda,nombretienda
+1000,Beef - Ox Tongue,6435.46,Grocery,53,1,Industrial Specialties
+1005,Cheese - Colby,86740.01,Outdoors,17,2,Radio And Television Broadcasting And Communications Equipment
+1010,Soup - Campbells - Tomato,14600.63,Automotive,64,3,EDP Services
+1015,Cookie Dough - Double,16758.25,Outdoors,42,4,Real Estate
+1020,Vinegar - Tarragon,53291.82,Shoes,18,5,Specialty Foods
+1025,Sesame Seed,64934.60,Music,44,6,Tienda Pepito
+1030,Soy Protein,44336.91,Jewelery,16,7,Major Pharmaceuticals
+1035,Wine - Jackson Triggs Okonagan,95541.49,Garden,57,8,D1
+1040,  Arctic Char - Fresh,63082.34,Games,15,9,Investment Bankers/Brokers/Service
+1045,Cake - Pancake,55899.90,Automotive,48,10,Shoe Manufacturing
+1050,  Rum - Spiced,96155.28,Movies,42,11,Brooklyn Store
+1055,Lumpfish Black,48290.93,Games,45,12,Ara
+1060,Soup - Campbells Bean Medley,68000.36,Industrial,59,13,Construction/Ag Equipment/Trucks
+1065,  Lamb - Loin,85412.99,Sports,44,14,Natural Gas Distribution
+1070,Sword Pick Asst,31998.84,Kids,15,15,Shoe Manufacturing
+1075,Ecolab - Power Fusion,1902.51,Electronics,67,16,Olimpica
+1080,Ice Cream - Vanilla,73599.67,Industrial,44,17,Biotechnology: Commercial Physical & Biological Resarch
+1085,  Stock - Veal,53147.68,Beauty,61,18,Mercamos
+1090,Beef - Salted,25260.17,Shoes,27,19,SAO
+1095,  Lamb - Loin,58962.93,Beauty,36,20,Major Banks
+1100,  Wine - Red,77028.50,Kids,17,21,Doña Maria
+1105,Fond - Chocolate,51066.53,Garden,36,22,Recreational Products/Toys
+1110,Nantucket Cranberry Juice,31612.87,Sports,21,23,Electrical Products
+1115,Fib N9 - Prague Powder,28330.81,Movies,1,24,Tiendita La Abuela
+1120,Grenadine,73589.61,Shoes,69,25,RETAIL: Building Materials
+1125,Soap - Hand Soap,56730.94,Jewelery,70,26,Fluid Controls
+1130,Bread Base - Gold Formel,93844.40,Sports,36,27,Marine Transportation
+1135,Cinnamon Rolls,64508.58,Computers,37,28,Ophthalmic Goods
+1140,  Arctic Char - Fresh,86343.11,Automotive,35,1,Industrial Specialties
+1145,Hold Up Tool Storage Rack,58693.42,Shoes,9,2,Radio And Television Broadcasting And Communications Equipment
+1150,  Pasta - Orzo,21498.89,Garden,12,3,EDP Services
+1155,Cheese - Shred Cheddar / Mozza,42148.30,Industrial,35,4,Real Estate
+1160,Cotton Wet Mop 16 Oz,34940.31,Shoes,65,5,Specialty Foods
+1165,Bread - Italian Sesame Poly,24703.30,Movies,20,6,Tienda Pepito
+1170,Snapple - Iced Tea Peach,74307.45,Baby,19,7,Major Pharmaceuticals
+1175,Pepper - Red Thai,84098.86,Books,16,8,D1
+1180,Capers - Ox Eye Daisy,37857.00,Jewelery,42,9,Investment Bankers/Brokers/Service
+1185,Scallops - 10/20,23771.41,Shoes,50,10,Shoe Manufacturing
+1190,Carrots - Mini Red Organic,71984.16,Jewelery,34,11,Brooklyn Store
+1195,Ham - Proscuitto,39600.98,Shoes,50,12,Ara
+1200,Spic And Span All Purpose,45315.97,Kids,46,13,Construction/Ag Equipment/Trucks
+1205,Coriander - Seed,21443.37,Clothing,2,14,Natural Gas Distribution
+1210,Icecream Cone - Areo Chocolate,86279.90,Kids,67,15,Shoe Manufacturing
+1215,Apple - Granny Smith,14781.31,Automotive,34,16,Olimpica
+1220,Compound - Raspberry,65243.12,Industrial,54,17,Biotechnology: Commercial Physical & Biological Resarch
+1225,Kellogs Raisan Bran Bars,14698.41,Books,30,18,Mercamos
+1230,Veal - Loin,5705.94,Tools,68,19,SAO
+1235,Pickles - Gherkins,18269.75,Electronics,20,20,Major Banks
+1240,Peppercorns - Pink,70719.89,Health,44,21,Doña Maria
+1245,Smoked Tongue,44061.50,Clothing,45,22,Recreational Products/Toys
+1250,Dc Hikiage Hira Huba,8014.96,Shoes,63,23,Electrical Products
+1255,Scallops - 20/30,93113.01,Jewelery,14,24,Tiendita La Abuela
+1260,Wine - Vouvray Cuvee Domaine,65891.72,Grocery,2,25,RETAIL: Building Materials
+1265,  Tart Shells - Savory,47434.35,Sports,27,26,Fluid Controls
+1270,Wine - Maipo Valle Cabernet,60523.20,Music,38,27,Marine Transportation
+1275,Plasticspoonblack,93867.41,Health,48,28,Ophthalmic Goods
+1280,Spinach - Spinach Leaf,87840.08,Shoes,19,28,Ophthalmic Goods
+1285,  Wine - White,35706.43,Health,21,27,Marine Transportation
+1290,Cookie Dough - Chocolate Chip,62893.74,Music,3,26,Fluid Controls
+1295,Truffle - Peelings,26840.94,Music,68,25,RETAIL: Building Materials
+1300,Sambuca - Ramazzotti,26453.54,Tools,28,24,Tiendita La Abuela
+1305,Melon - Honey Dew,41933.78,Toys,16,23,Electrical Products
+1310,Cheese - Wine,87581.86,Kids,29,22,Recreational Products/Toys
+1315,Bread - White Epi Baguette,29665.43,Industrial,34,21,Doña Maria
+1320,Yeast Dry - Fermipan,40672.41,Electronics,1,20,Major Banks
+1325,  Tendrils - Baby Pea,48764.78,Computers,22,19,SAO
+1330,Crab - Meat,70315.05,Industrial,39,18,Mercamos
+1335,  Beef - Tongue,8889.65,Clothing,70,17,Biotechnology: Commercial Physical & Biological Resarch
+1340,  Flour - Buckwheat,79650.35,Toys,25,16,Olimpica
+1345,Beef - Montreal Smoked Brisket,84236.42,Games,31,15,Shoe Manufacturing
+1350,Coffee Caramel Biscotti,81512.74,Shoes,16,14,Natural Gas Distribution
+1355,Bread - Assorted Rolls,69676.49,Automotive,54,13,Construction/Ag Equipment/Trucks
+1360,Russian Prince,87830.91,Grocery,25,12,Ara
+1365,Coriander - Seed,68129.78,Electronics,16,11,Brooklyn Store
+1370,Soup Campbells - Tomato Bisque,21879.97,Computers,68,10,Shoe Manufacturing
+1375,Praline Paste,46694.69,Grocery,34,9,Investment Bankers/Brokers/Service
+1380,Guinea Fowl,79046.94,Industrial,14,8,D1
+1385,Onions - Green,93810.46,Garden,20,7,Major Pharmaceuticals
+1390,Tomatoes - Heirloom,15152.83,Automotive,29,6,Tienda Pepito
+1395,Cape Capensis - Fillet,41117.13,Books,39,5,Specialty Foods
+1400,Soap - Pine Sol Floor Cleaner,66493.12,Home,37,4,Real Estate
+1405,Beef Flat Iron Steak,67555.80,Toys,1,3,EDP Services
+1410,Sobe - Berry Energy,97952.83,Books,25,2,Radio And Television Broadcasting And Communications Equipment
+1415,Flour - Strong,54372.24,Jewelery,61,1,Industrial Specialties
+1420,Chinese Foods - Thick Noodles,55199.81,Jewelery,6,28,Ophthalmic Goods
+1425,Juice - Happy Planet,90386.98,Computers,44,27,Marine Transportation
+1430,Eggplant - Regular,84389.07,Automotive,0,26,Fluid Controls
+1435,  Pasta - Fettuccine,34022.16,Home,67,25,RETAIL: Building Materials
+1440,Pepper - Red Bell,24436.94,Music,29,24,Tiendita La Abuela
+1445,Chips - Assorted,88638.80,Garden,11,23,Electrical Products
+1450,Veal - Bones,30576.40,Toys,28,22,Recreational Products/Toys
+1455,Snails - Large Canned,17357.30,Clothing,32,21,Doña Maria
+1460,  Soup - Knorr,50763.93,Games,60,20,Major Banks
+1465,Chickensplit Half,99503.70,Tools,43,19,SAO
+1470,Five Alive Citrus,33695.42,Games,55,18,Mercamos
+1475,  Sauce - Black Current,64750.16,Toys,9,17,Biotechnology: Commercial Physical & Biological Resarch
+1480,Beef - Salted,17840.70,Industrial,8,16,Olimpica
+1485,Wine - Magnotta - Cab Franc,25952.02,Grocery,41,15,Shoe Manufacturing
+1490,Beef - Striploin,98240.45,Toys,54,14,Natural Gas Distribution
+1495,Juice - Ocean Spray Cranberry,78594.97,Outdoors,26,13,Construction/Ag Equipment/Trucks
+1500,  Pork - Bacon,94828.17,Home,18,12,Ara
+1505,Sour Puss - Tangerine,66921.63,Shoes,31,11,Brooklyn Store
+1510,  Veal - Brisket,30512.17,Grocery,18,10,Shoe Manufacturing
+1515,Onions - Cippolini,45390.47,Health,46,9,Investment Bankers/Brokers/Service
+1520,Beef - Ground Lean Fresh,70916.68,Beauty,7,8,D1
+1525,Tea Leaves - Oolong,8486.16,Books,7,7,Major Pharmaceuticals
+1530,Bagel - Plain,78420.60,Health,65,6,Tienda Pepito
+1535,  Pepper - White,68797.10,Shoes,26,5,Specialty Foods
+1540,Chicken - Soup Base,47473.25,Home,9,4,Real Estate
+1545,Beef - Cow Feet Split,9841.07,Toys,23,3,EDP Services
+1550,Chips - Doritos,54009.84,Computers,42,2,Radio And Television Broadcasting And Communications Equipment
+1555,Soup Campbells - Tomato Bisque,48266.85,Grocery,64,1,Industrial Specialties
+1560,Pernod,10643.33,Shoes,64,1,Industrial Specialties
+1565,Rabbit - Saddles,99641.21,Music,54,2,Radio And Television Broadcasting And Communications Equipment
+1570,Salmon Steak - Cohoe 6 Oz,72519.35,Electronics,62,3,EDP Services
+1575,Mushroom - Portebello,71681.83,Tools,1,4,Real Estate
+1580,  Yogurt - Banana,71840.18,Computers,13,5,Specialty Foods
+1585,  Pasta - Lasagna,36088.58,Kids,13,6,Tienda Pepito
+1590,Knife Plastic - White,3346.50,Beauty,61,7,Major Pharmaceuticals
+1595,  Soup - Campbells,13378.75,Kids,24,8,D1
+1600,Steam Pan - Half Size Deep,45560.20,Health,15,9,Investment Bankers/Brokers/Service
+1605,Sword Pick Asst,88914.19,Health,70,10,Shoe Manufacturing
+1610,Curry Paste - Green Masala,87031.88,Tools,44,11,Brooklyn Store
+1615,Pasta - Orecchiette,5534.95,Health,2,12,Ara
+1620,Lamb Rack - Ontario,18077.49,Computers,30,13,Construction/Ag Equipment/Trucks
+1625,  Sauce - Gravy,17140.81,Computers,57,14,Natural Gas Distribution
+1630,Sobe - Berry Energy,89920.77,Movies,7,15,Shoe Manufacturing
+1635,Cake - Cake Sheet Macaroon,78600.68,Shoes,1,16,Olimpica
+1640,Devonshire Cream,28291.12,Garden,31,17,Biotechnology: Commercial Physical & Biological Resarch
+1645,Wine - Pinot Noir Pond Haddock,31316.17,Jewelery,63,18,Mercamos
+1650,  Vodka - Hot,84300.21,Computers,10,19,SAO
+1655,Salami - Genova,86911.34,Electronics,25,20,Major Banks
+1660,White Fish - Filets,28397.86,Electronics,50,21,Doña Maria
+1665,Sauce - Chili,55982.85,Kids,56,22,Recreational Products/Toys
+1670,Mayonnaise,28658.62,Health,28,23,Electrical Products
+1675,  Pork - Bacon,64512.90,Electronics,7,24,Tiendita La Abuela
+1680,Pail For Lid 1537,72125.23,Toys,55,25,RETAIL: Building Materials
+1685,Pop Shoppe Cream Soda,30682.54,Automotive,45,26,Fluid Controls
+1690,Bread - Focaccia Quarter,60632.56,Baby,60,27,Marine Transportation
+1695,Lemon Balm - Fresh,13562.97,Home,46,28,Ophthalmic Goods
+1700,Table Cloth 54x72 White,38193.05,Baby,49,1,Industrial Specialties
+1705,  Doilies - 7,35664.34,Baby,47,2,Radio And Television Broadcasting And Communications Equipment
+1710,  Wine - Red,12694.50,Beauty,7,3,EDP Services
+1715,Soup - Campbells,15880.27,Beauty,43,4,Real Estate
+1720,  Syrup - Golden,97650.42,Garden,34,5,Specialty Foods
+1725,Pepper - Jalapeno,81160.55,Sports,19,6,Tienda Pepito
+1730,Longos - Grilled Veg Sandwiches,98817.16,Garden,28,7,Major Pharmaceuticals
+1735,Dc Hikiage Hira Huba,48057.77,Computers,6,8,D1
+1740,Carbonated Water - White Grape,41224.24,Clothing,70,9,Investment Bankers/Brokers/Service
+1745,Cake - Pancake,75627.77,Industrial,46,10,Shoe Manufacturing
+1750,Table Cloth 72x144 White,53819.84,Kids,10,11,Brooklyn Store
+1755,Silicone Paper 16.5x24,20081.02,Toys,31,12,Ara
+1760,Clam - Cherrystone,22809.32,Clothing,55,13,Construction/Ag Equipment/Trucks
+1765,Bread - Olive Dinner Roll,72019.19,Beauty,18,14,Natural Gas Distribution
+1770,Wine - Valpolicella Masi,85789.08,Jewelery,60,15,Shoe Manufacturing
+1775,Scampi Tail,77363.82,Outdoors,59,16,Olimpica
+1780,Curry Paste - Green Masala,45637.27,Computers,54,17,Biotechnology: Commercial Physical & Biological Resarch
+1785,Wine - Kwv Chenin Blanc South,72558.53,Garden,26,18,Mercamos
+1790,Jolt Cola,19326.42,Grocery,57,19,SAO
+1795,Cape Capensis - Fillet,27001.36,Jewelery,44,20,Major Banks
+1800,Goat - Leg,64947.40,Computers,66,21,Doña Maria
+1805,Sugar - Cubes,47522.18,Movies,3,22,Recreational Products/Toys
+1810,Soup Campbells - Tomato Bisque,50423.98,Electronics,32,23,Electrical Products
+1815,Curry Paste - Green Masala,43051.80,Health,30,24,Tiendita La Abuela
+1820,Oil - Olive,22043.97,Games,5,25,RETAIL: Building Materials
+1825,  Chicken - Leg,21254.44,Games,69,26,Fluid Controls
+1830,Pie Filling - Cherry,73324.89,Clothing,22,27,Marine Transportation
+1835,Wine - Barossa Valley Estate,59691.52,Computers,23,28,Ophthalmic Goods
+1840,Toothpick Frilled,89511.92,Toys,34,1,Industrial Specialties
+1845,Rice - Jasmine Sented,39735.21,Books,49,2,Radio And Television Broadcasting And Communications Equipment
+1850,Shallots,64543.97,Movies,4,3,EDP Services
+1855,Veal - Insides Provini,5338.17,Home,6,4,Real Estate
+1860,  Mushroom - Shitake,69615.18,Tools,9,5,Specialty Foods
+1865,Island Oasis - Strawberry,44420.79,Toys,57,6,Tienda Pepito
+1870,Wine - Beringer Founders Estate,48227.13,Health,21,7,Major Pharmaceuticals
+1875,Fudge - Chocolate Fudge,63251.84,Jewelery,31,8,D1
+1880,  Beef - Roasted,21277.74,Garden,10,9,Investment Bankers/Brokers/Service
+1885,Compound - Strawberry,80511.06,Shoes,59,10,Shoe Manufacturing
+1890,  Nut - Almond,36959.96,Garden,44,11,Brooklyn Store
+1895,Lid - 16 Oz And 32 Oz,13002.05,Electronics,61,12,Ara
+1900,Pepper - Red Thai,50323.61,Baby,64,13,Construction/Ag Equipment/Trucks
+1905,Calvados - Boulard,64422.39,Grocery,70,14,Natural Gas Distribution
+1910,Wine - Cava Aria Estate Brut,70941.32,Clothing,0,15,Shoe Manufacturing
+1915,Cake - Cheese Cake 9 Inch,77983.84,Music,37,16,Olimpica
+1920,Sprouts - Alfalfa,92000.87,Jewelery,63,17,Biotechnology: Commercial Physical & Biological Resarch
+1925,Salt - Sea,74512.67,Outdoors,51,18,Mercamos
+1930,Pasta - Ravioli,87088.86,Tools,52,19,SAO
+1935,  Nut - Cashews,30738.42,Jewelery,5,20,Major Banks
+1940,Grapes - Green,65400.67,Health,4,21,Doña Maria
+1945,Energy Drink - Redbull 355ml,14672.80,Industrial,50,22,Recreational Products/Toys
+1950,Muffin Carrot - Individual,94139.62,Grocery,61,23,Electrical Products
+1955,  Tart Shells - Sweet,52834.15,Books,40,24,Tiendita La Abuela
+1960,  Stock - Beef,1879.13,Computers,41,25,RETAIL: Building Materials
+1965,  Cup - 6oz,46689.84,Music,48,26,Fluid Controls
+1970,  Beef - Bones,66090.57,Kids,9,27,Marine Transportation
+1975,Cup - 4oz Translucent,33116.84,Tools,13,28,Ophthalmic Goods
+1980,Cake - Pancake,76080.59,Health,11,28,Ophthalmic Goods
+1985,Salami - Genova,10773.92,Clothing,55,27,Marine Transportation
+1990,  Beans - Fava,14425.65,Baby,10,26,Fluid Controls
+1995,Catfish - Fillets,66019.54,Shoes,23,25,RETAIL: Building Materials
+2000,Bread - Raisin,51132.44,Computers,22,24,Tiendita La Abuela
+2005,  Sugar - Brown,82241.39,Automotive,8,23,Electrical Products
+2010,Bread - French Baquette,80629.55,Automotive,26,22,Recreational Products/Toys
+2015,Bread - Sour Sticks With Onion,17655.22,Industrial,36,21,Doña Maria
+2020,Shichimi Togarashi Peppeers,37928.09,Health,28,20,Major Banks
+2025,Wine - Chenin Blanc K.w.v.,40735.45,Movies,65,19,SAO
+2030,Flavouring Vanilla Artificial,55869.05,Garden,10,18,Mercamos
+2035,Cup - Translucent 7 Oz Clear,22289.22,Sports,67,17,Biotechnology: Commercial Physical & Biological Resarch
+2040,Poppy Seed,99950.89,Beauty,29,16,Olimpica
+2045,Beef - Top Butt,45188.15,Computers,14,15,Shoe Manufacturing
+2050,Raisin - Dark,38193.69,Clothing,63,14,Natural Gas Distribution
+2055,Puree - Kiwi,71409.44,Grocery,31,13,Construction/Ag Equipment/Trucks
+2060,Ecolab - Ster Bac,59673.33,Grocery,12,12,Ara
+2065,  Wine - Mas Chicet Rose,41117.90,Home,17,11,Brooklyn Store
+2070,Mousse - Passion Fruit,75935.47,Clothing,43,10,Shoe Manufacturing
+2075,  Rum - Cream,55390.48,Industrial,30,9,Investment Bankers/Brokers/Service
+2080,Bread Cranberry Foccacia,46417.60,Baby,61,8,D1
+2085,  Tomatoes - Plum,39003.12,Games,5,7,Major Pharmaceuticals
+2090,  Lamb - Pieces,26533.82,Jewelery,57,6,Tienda Pepito
+2095,Bacardi Breezer - Strawberry,12033.94,Health,17,5,Specialty Foods
+2100,Soup - Campbells Pasta Fagioli,1867.75,Grocery,65,4,Real Estate
+2105,  Sole - Dover,98890.95,Movies,0,3,EDP Services
+2110,Ecolab - Lime - A - Way 4/4 L,87018.60,Movies,18,2,Radio And Television Broadcasting And Communications Equipment
+2115,Squash - Pepper,63237.67,Music,22,1,Industrial Specialties
+2120,Wine - Vouvray Cuvee Domaine,66392.43,Jewelery,38,28,Ophthalmic Goods
+2125,Wine - Gato Negro Cabernet,4690.19,Baby,59,27,Marine Transportation
+2130,  Pepsi - Diet,60309.46,Sports,64,26,Fluid Controls
+2135,Beer - Sleemans Honey Brown,40340.90,Health,17,25,RETAIL: Building Materials
+2140,Beer - Sleemans Honey Brown,38986.95,Industrial,24,24,Tiendita La Abuela
+2145,Tea - Earl Grey,75125.72,Tools,10,23,Electrical Products
+2150,Sugar - Cubes,65109.08,Tools,59,22,Recreational Products/Toys
+2155,Glucose,75035.12,Automotive,64,21,Doña Maria
+2160,Lychee - Canned,34351.94,Electronics,15,20,Major Banks
+2165,Ham - Cooked Italian,77113.87,Computers,41,19,SAO
+2170,  Veal - Shank,89802.65,Automotive,34,18,Mercamos
+2175,Mustard - Seed,16647.53,Outdoors,57,17,Biotechnology: Commercial Physical & Biological Resarch
+2180,  Rum - Spiced,52371.03,Electronics,16,16,Olimpica
+2185,Vector Energy Bar,16064.69,Books,26,15,Shoe Manufacturing
+2190,Containter - 3oz Microwave Rect.,74181.35,Games,40,14,Natural Gas Distribution
+2195,Muffin Mix - Corn Harvest,54597.43,Baby,24,13,Construction/Ag Equipment/Trucks
+2200,Bagel - Ched Chs Presliced,47302.75,Electronics,4,12,Ara
+2205,Island Oasis - Lemonade,34960.78,Computers,35,11,Brooklyn Store
+2210,Extract - Almond,80373.56,Electronics,40,10,Shoe Manufacturing
+2215,  Pasta - Rotini,15946.79,Automotive,49,9,Investment Bankers/Brokers/Service
+2220,Sausage - Liver,96489.36,Books,13,8,D1
+2225,Squid U5 - Thailand,67782.86,Baby,0,7,Major Pharmaceuticals
+2230,Cheese - Marble,93467.55,Computers,59,6,Tienda Pepito
+2235,Puree - Blackcurrant,41926.42,Baby,38,5,Specialty Foods
+2240,  Beans - Kidney,77613.79,Games,39,4,Real Estate
+2245,Bread - Italian Roll With Herbs,48771.83,Outdoors,30,3,EDP Services
+2250,Pastry - Chocolate Chip Muffin,99674.23,Sports,33,2,Radio And Television Broadcasting And Communications Equipment
+2255,Beef - Kobe Striploin,35628.70,Movies,4,1,Industrial Specialties
+2260,Cinnamon - Stick,86224.98,Electronics,48,1,Industrial Specialties
+2265,  Wine - Red,16332.68,Automotive,62,2,Radio And Television Broadcasting And Communications Equipment
+2270,  Flour - Bran,48874.87,Clothing,25,3,EDP Services
+2275,Haggis,73222.03,Books,14,4,Real Estate
+2280,Wine - Conde De Valdemar,66206.82,Shoes,8,5,Specialty Foods
+2285,Energy Drink - Franks Pineapple,16801.45,Beauty,65,6,Tienda Pepito
+2290,Cheese - Sheep Milk,7390.93,Movies,19,7,Major Pharmaceuticals
+2295,Chickhen - Chicken Phyllo,19177.81,Health,43,8,D1
+2300,Chips - Potato Jalapeno,53997.81,Garden,64,9,Investment Bankers/Brokers/Service
+2305,Wine - Prosecco Valdobiaddene,20554.75,Garden,25,10,Shoe Manufacturing
+2310,Chocolate - Mi - Amere Semi,44377.56,Computers,12,11,Brooklyn Store
+2315,Bacardi Breezer - Strawberry,90773.94,Music,48,12,Ara
+2320,Chinese Foods - Chicken,14625.65,Grocery,58,13,Construction/Ag Equipment/Trucks
+2325,Gherkin - Sour,17823.70,Beauty,8,14,Natural Gas Distribution
+2330,Bar Nature Valley,64089.86,Garden,57,15,Shoe Manufacturing
+2335,Bananas,54923.08,Baby,40,16,Olimpica
+2340,Bandage - Fexible 1x3,7830.64,Industrial,60,17,Biotechnology: Commercial Physical & Biological Resarch
+2345,Oil - Grapeseed Oil,50291.36,Beauty,41,18,Mercamos
+2350,Appetizer - Assorted Box,90071.98,Industrial,40,19,SAO
+2355,Sugar - Fine,37178.60,Garden,67,20,Major Banks
+2360,Mahi Mahi,46249.83,Baby,13,21,Doña Maria
+2365,Sour Puss Raspberry,14417.56,Outdoors,64,22,Recreational Products/Toys
+2370,Cotton Wet Mop 16 Oz,14698.14,Books,47,23,Electrical Products
+2375,Chinese Foods - Cantonese,91540.18,Clothing,12,24,Tiendita La Abuela
+2380,  Fish - Atlantic Salmon,88218.12,Grocery,65,25,RETAIL: Building Materials
+2385,Beer - Labatt Blue,39535.28,Toys,38,26,Fluid Controls
+2390,Wine - Hardys Bankside Shiraz,82730.32,Computers,60,27,Marine Transportation
+2395,Seaweed Green Sheets,85349.10,Shoes,58,28,Ophthalmic Goods
+2400,Salmon Atl.whole 8 - 10 Lb,50474.96,Home,23,1,Industrial Specialties
+2405,Mushroom - White Button,34059.18,Garden,30,2,Radio And Television Broadcasting And Communications Equipment
+2410,Chevere Logs,18306.90,Shoes,62,3,EDP Services
+2415,Shopper Bag - S - 4,71969.07,Books,5,4,Real Estate
+2420,  Lamb - Leg,77665.80,Home,62,5,Specialty Foods
+2425,Soup Campbells - Italian Wedding,80726.88,Electronics,56,6,Tienda Pepito
+2430,Cheese - Bocconcini,68733.28,Toys,17,7,Major Pharmaceuticals
+2435,Wine - Pinot Noir Latour,16537.42,Tools,11,8,D1
+2440,Cheese - Parmesan Cubes,39203.21,Baby,12,9,Investment Bankers/Brokers/Service
+2445,Onion - Dried,77800.36,Computers,27,10,Shoe Manufacturing
+2450,Soup Campbells Mexicali Tortilla,29586.70,Books,26,11,Brooklyn Store
+2455,Wine - Sicilia Igt Nero Avola,36418.88,Outdoors,63,12,Ara
+2460,Mousse - Passion Fruit,59834.68,Kids,11,13,Construction/Ag Equipment/Trucks
+2465,Pasta - Fusili Tri - Coloured,40025.09,Jewelery,66,14,Natural Gas Distribution
+2470,Venison - Ground,93778.99,Grocery,65,15,Shoe Manufacturing
+2475,  Sauce - Black Current,73186.63,Industrial,36,16,Olimpica
+2480,Juice - Happy Planet,10828.16,Baby,23,17,Biotechnology: Commercial Physical & Biological Resarch
+2485,Sausage - Andouille,64293.41,Music,39,18,Mercamos
+2490,Cheese - Le Cru Du Clocher,96941.14,Baby,1,19,SAO
+2495,Bar Mix - Lime,15723.34,Games,50,20,Major Banks
+2500,Dawn Professionl Pot And Pan,47301.86,Automotive,62,21,Doña Maria
+2505,Island Oasis - Ice Cream Mix,73047.73,Industrial,4,22,Recreational Products/Toys
+2510,  Mushroom - Chantrelle,93434.43,Games,68,23,Electrical Products
+2515,Bread - Pumpernickel,16261.46,Games,54,24,Tiendita La Abuela
+2520,  Cheese - Havarti,88443.62,Books,13,25,RETAIL: Building Materials
+2525,Pork - Shoulder,51984.89,Sports,23,26,Fluid Controls
+2530,Wanton Wrap,83566.81,Health,60,27,Marine Transportation
+2535,Buffalo - Striploin,86218.39,Automotive,3,28,Ophthalmic Goods
+2540,Gelatine Leaves - Bulk,45351.54,Garden,15,1,Industrial Specialties
+2545,Shrimp - Black Tiger 13/15,27460.55,Home,25,2,Radio And Television Broadcasting And Communications Equipment
+2550,  Ranchero - Primerba,66071.58,Kids,13,3,EDP Services
+2555,Oil - Sesame,10767.61,Electronics,38,4,Real Estate
+2560,  Shrimp,76840.30,Movies,61,5,Specialty Foods
+2565,Wine - Rosso Toscano Igt,10898.02,Movies,32,6,Tienda Pepito
+2570,Chocolate - Dark Callets,29432.73,Industrial,68,7,Major Pharmaceuticals
+2575,Silicone Paper 16.5x24,22326.87,Shoes,7,8,D1
+2580,  Pasta - Fett Alfredo,86043.31,Health,46,9,Investment Bankers/Brokers/Service
+2585,  Soup - Campbells,61690.84,Jewelery,63,10,Shoe Manufacturing
+2590,Lid Coffeecup 12oz D9542b,48430.63,Sports,50,11,Brooklyn Store
+2595,Filling - Mince Meat,71646.52,Industrial,2,12,Ara
+2600,Kippers - Smoked,38604.78,Tools,19,13,Construction/Ag Equipment/Trucks
+2605,  Tart Shells - Savory,33249.53,Health,70,14,Natural Gas Distribution
+2610,Oil - Sesame,16822.69,Games,69,15,Shoe Manufacturing
+2615,Bread - Wheat Baguette,22555.85,Home,33,16,Olimpica
+2620,Wine - Cousino Macul Antiguas,77180.98,Shoes,55,17,Biotechnology: Commercial Physical & Biological Resarch
+2625,Port - 74 Brights,28481.72,Shoes,51,18,Mercamos
+2630,  Jam - Strawberry,50156.73,Automotive,33,19,SAO
+2635,  Wine - Magnotta - Red,95122.48,Jewelery,38,20,Major Banks
+2640,Dooleys Toffee,92089.21,Movies,35,21,Doña Maria
+2645,Milk - Skim,67644.62,Computers,3,22,Recreational Products/Toys
+2650,  Star Anise,80425.38,Outdoors,56,23,Electrical Products
+2655,Island Oasis - Raspberry,40360.42,Home,25,24,Tiendita La Abuela
+2660,Couscous,84722.97,Beauty,33,25,RETAIL: Building Materials
+2665,  Yogurt - Peach,68011.32,Electronics,23,26,Fluid Controls
+2670,Cheese - Parmesan Grated,87192.13,Games,37,27,Marine Transportation
+2675,Catfish - Fillets,39550.56,Outdoors,54,28,Ophthalmic Goods
+2680,Sauce Tomato Pouch,97721.84,Music,48,28,Ophthalmic Goods
+2685,Muffin Mix - Lemon Cranberry,51195.26,Toys,46,27,Marine Transportation
+2690,Okra,6435.46,Outdoors,68,26,Fluid Controls
+2695,Towel Multifold,86740.01,Jewelery,67,25,RETAIL: Building Materials
+2700,Mudslide,14600.63,Electronics,41,24,Tiendita La Abuela
+2705,Cakes Assorted,16758.25,Movies,14,23,Electrical Products
+2710,Gelatine Powder,53291.82,Garden,36,22,Recreational Products/Toys
+2715,Wine - Gewurztraminer Pierre,64934.60,Outdoors,42,21,Doña Maria
+2720,Temperature Recording Station,44336.91,Grocery,6,20,Major Banks
+2725,  Pepper - White,95541.49,Health,46,19,SAO
+2730,Bread - Hamburger Buns,63082.34,Games,62,18,Mercamos
+2735,Pie Filling - Apple,55899.90,Sports,47,17,Biotechnology: Commercial Physical & Biological Resarch
+2740,Tamarillo,96155.28,Beauty,33,16,Olimpica
+2745,Cookies - Amaretto,48290.93,Shoes,14,15,Shoe Manufacturing
+2750,  Rum - Coconut,68000.36,Kids,1,14,Natural Gas Distribution
+2755,Pear - Halves,85412.99,Tools,7,13,Construction/Ag Equipment/Trucks
+2760,  Wine - Red,31998.84,Electronics,13,12,Ara
+2765,Jam - Raspberry,1902.51,Shoes,56,11,Brooklyn Store
+2770,Ezy Change Mophandle,73599.67,Sports,63,10,Shoe Manufacturing
+2775,Sauce - Thousand Island,53147.68,Toys,10,9,Investment Bankers/Brokers/Service
+2780,Island Oasis - Sweet And Sour Mix,25260.17,Automotive,62,8,D1
+2785,  Doilies - 7,58962.93,Garden,67,7,Major Pharmaceuticals
+2790,Turnip - Mini,77028.50,Industrial,60,6,Tienda Pepito
+2795,Mushroom - Portebello,51066.53,Toys,55,5,Specialty Foods
+2800,Wine - Magnotta - Cab Franc,31612.87,Sports,62,4,Real Estate
+2805,  Veal - Round,28330.81,Sports,51,3,EDP Services
+2810,  Vermouth - Sweet,73589.61,Tools,11,2,Radio And Television Broadcasting And Communications Equipment
+2815,Piping Jelly - All Colours,56730.94,Music,49,1,Industrial Specialties
+2820,Kiwano,93844.40,Grocery,65,28,Ophthalmic Goods
+2825,Gooseberry,64508.58,Baby,58,27,Marine Transportation
+2830,Creme De Cacao Mcguines,86343.11,Movies,13,26,Fluid Controls
+2835,Bacardi Mojito,58693.42,Industrial,27,25,RETAIL: Building Materials
+2840,Carroway Seed,21498.89,Books,3,24,Tiendita La Abuela
+2845,Leeks - Large,42148.30,Outdoors,26,23,Electrical Products
+2850,Flour - Chickpea,34940.31,Industrial,58,22,Recreational Products/Toys
+2855,Meldea Green Tea Liquor,24703.30,Industrial,26,21,Doña Maria
+2860,Pail With Metal Handle 16l White,74307.45,Tools,66,20,Major Banks
+2865,  Nut - Walnut,84098.86,Health,1,19,SAO
+2870,Crackers - Water,37857.00,Movies,29,18,Mercamos
+2875,Bandage - Finger Cots,23771.41,Movies,50,17,Biotechnology: Commercial Physical & Biological Resarch
+2880,  Oil - Shortening,71984.16,Games,17,16,Olimpica
+2885,Marzipan 50/50,39600.98,Garden,1,15,Shoe Manufacturing
+2890,Wine - Magnotta - Bel Paese White,45315.97,Toys,21,14,Natural Gas Distribution
+2895,Mushroom - King Eryingii,21443.37,Electronics,23,13,Construction/Ag Equipment/Trucks
+2900,Brandy Apricot,86279.90,Kids,37,12,Ara
+2905,Olives - Morracan Dired,14781.31,Automotive,64,11,Brooklyn Store
+2910,V8 Splash Strawberry Banana,65243.12,Clothing,38,10,Shoe Manufacturing
+2915,Buttons,14698.41,Movies,31,9,Investment Bankers/Brokers/Service
+2920,Cheese Cheddar Processed,5705.94,Garden,67,8,D1
+2925,Cinnamon Buns Sticky,18269.75,Jewelery,18,7,Major Pharmaceuticals
+2930,Sauce - Vodka Blush,70719.89,Games,39,6,Tienda Pepito
+2935,Puff Pastry - Slab,44061.50,Outdoors,37,5,Specialty Foods
+2940,Icecream - Dstk Strw Chseck,8014.96,Books,49,4,Real Estate
+2945,Soup - Campbells Chili Veg,93113.01,Jewelery,63,3,EDP Services
+2950,  Salt - Rock,65891.72,Movies,31,2,Radio And Television Broadcasting And Communications Equipment
+2955,  Veal - Inside,47434.35,Grocery,20,1,Industrial Specialties
+2960,Cheese - Goat With Herbs,60523.20,Electronics,39,1,Industrial Specialties
+2965,Ham - Black Forest,93867.41,Electronics,11,2,Radio And Television Broadcasting And Communications Equipment
+2970,Plate Pie Foil,87840.08,Music,63,3,EDP Services
+2975,Cheese - Brie,35706.43,Kids,8,4,Real Estate
+2980,Cheese - Parmigiano Reggiano,62893.74,Electronics,44,5,Specialty Foods
+2985,  Pepsi,26840.94,Garden,51,6,Tienda Pepito
+2990,Chocolate Bar - Smarties,26453.54,Automotive,8,7,Major Pharmaceuticals
+2995,Wine - Champagne Brut Veuve,41933.78,Books,45,8,D1
+3000,Squash - Acorn,87581.86,Tools,8,9,Investment Bankers/Brokers/Service
+3005,Smirnoff Green Apple Twist,29665.43,Baby,10,10,Shoe Manufacturing
+3010,Wine - Rhine Riesling Wolf Blass,40672.41,Health,28,11,Brooklyn Store
+3015,Juice - Lemon,48764.78,Movies,28,12,Ara
+3020,Apple - Fuji,70315.05,Jewelery,49,13,Construction/Ag Equipment/Trucks
+3025,Breakfast Quesadillas,8889.65,Outdoors,40,14,Natural Gas Distribution
+3030,Rice - Wild,79650.35,Automotive,66,15,Shoe Manufacturing
+3035,Wine - Masi Valpolocell,84236.42,Garden,66,16,Olimpica
+3040,Garbag Bags - Black,81512.74,Grocery,33,17,Biotechnology: Commercial Physical & Biological Resarch
+3045,Pastry - Baked Scones - Mini,69676.49,Automotive,1,18,Mercamos
+3050,Creme De Cacao White,87830.91,Automotive,32,19,SAO
+3055,Sugar - Fine,68129.78,Garden,65,20,Major Banks
+3060,  Bread - Bagels,21879.97,Garden,64,21,Doña Maria
+3065,Dc - Sakura Fu,46694.69,Toys,64,22,Recreational Products/Toys
+3070,Pants Custom Dry Clean,79046.94,Beauty,28,23,Electrical Products
+3075,  Bread - Roll,93810.46,Shoes,48,24,Tiendita La Abuela
+3080,  Juice - Clamato,15152.83,Automotive,68,25,RETAIL: Building Materials
+3085,  Lemonade - Strawberry,41117.13,Baby,63,26,Fluid Controls
+3090,Pie Shells 10,66493.12,Clothing,29,27,Marine Transportation
+3095,Eggplant - Baby,67555.80,Home,42,28,Ophthalmic Goods
+3100,Coffee - Egg Nog Capuccino,97952.83,Computers,20,1,Industrial Specialties
+3105,Duck - Fat,54372.24,Music,57,2,Radio And Television Broadcasting And Communications Equipment
+3110,Pepper - Red Bell,55199.81,Health,66,3,EDP Services
+3115,Bagel - Plain,90386.98,Health,35,4,Real Estate
+3120,Chips Potato All Dressed - 43g,84389.07,Industrial,63,5,Specialty Foods
+3125,Absolut Citron,34022.16,Movies,38,6,Tienda Pepito
+3130,Oil - Margarine,24436.94,Outdoors,47,7,Major Pharmaceuticals
+3135,  Beef - Ox Tongue,88638.80,Tools,60,8,D1
+3140,  Beef - Cooked,30576.40,Garden,62,9,Investment Bankers/Brokers/Service
+3145,Puree - Kiwi,17357.30,Toys,43,10,Shoe Manufacturing
+3150,  Pork - Tenderloin,50763.93,Shoes,44,11,Brooklyn Store
+3155,  Pasta - Gnocchi,99503.70,Automotive,37,12,Ara
+3160,  Brandy - Orange,33695.42,Automotive,32,13,Construction/Ag Equipment/Trucks
+3165,Cranberries - Dry,64750.16,Baby,25,14,Natural Gas Distribution
+3170,Pastry - Apple Muffins - Mini,17840.70,Outdoors,58,15,Shoe Manufacturing
+3175,Haggis,25952.02,Electronics,1,16,Olimpica
+3180,  Pasta - Shells,98240.45,Health,48,17,Biotechnology: Commercial Physical & Biological Resarch
+3185,  Chicken - Breast,78594.97,Beauty,30,18,Mercamos
+3190,Olives - Kalamata,94828.17,Health,26,19,SAO
+3195,Steel Wool S.o.s,66921.63,Movies,65,20,Major Banks
+3200,Cookies Cereal Nut,30512.17,Baby,64,21,Doña Maria
+3205,Cheese - Parmigiano Reggiano,45390.47,Toys,39,22,Recreational Products/Toys
+3210,Oregano - Fresh,70916.68,Clothing,53,23,Electrical Products
+3215,Flour - Strong,8486.16,Electronics,16,24,Tiendita La Abuela
+3220,Savory,78420.60,Toys,32,25,RETAIL: Building Materials
+3225,Pear - Prickly,68797.10,Baby,57,26,Fluid Controls
+3230,  Pepper - White,47473.25,Tools,25,27,Marine Transportation
+3235,Ice Cream Bar - Drumstick,9841.07,Garden,55,28,Ophthalmic Goods
+3240,Bread Country Roll,54009.84,Electronics,6,1,Industrial Specialties
+3245,Vol Au Vents,48266.85,Kids,36,2,Radio And Television Broadcasting And Communications Equipment
+3250,Peach - Fresh,10643.33,Books,27,3,EDP Services
+3255,Orange - Tangerine,99641.21,Kids,68,4,Real Estate
+3260,Pancetta,72519.35,Jewelery,58,5,Specialty Foods
+3265,  Cherries - Bing,71681.83,Health,62,6,Tienda Pepito
+3270,  Tea - Darjeeling,71840.18,Baby,20,7,Major Pharmaceuticals
+3275,  Beans - Navy,36088.58,Books,63,8,D1
+3280,Compound - Rum,3346.50,Books,20,9,Investment Bankers/Brokers/Service
+3285,Phyllo Dough,13378.75,Beauty,55,10,Shoe Manufacturing
+3290,Venison - Denver Leg Boneless,45560.20,Tools,70,11,Brooklyn Store
+3295,  Lemonade - Black Cherry,88914.19,Automotive,43,12,Ara
+3300,  Tea - Darjeeling,87031.88,Kids,69,13,Construction/Ag Equipment/Trucks
+3305,Cleaner - Lime Away,5534.95,Industrial,4,14,Natural Gas Distribution
+3310,Bacon Strip Precooked,18077.49,Movies,56,15,Shoe Manufacturing
+3315,  Pasta - Fusili,17140.81,Garden,24,16,Olimpica
+3320,Soup Campbells - Tomato Bisque,89920.77,Games,63,17,Biotechnology: Commercial Physical & Biological Resarch
+3325,Mahi Mahi,78600.68,Health,44,18,Mercamos
+3330,Papadam,28291.12,Automotive,65,19,SAO
+3335,  Champagne - Brights,31316.17,Toys,42,20,Major Banks
+3340,Haggis,84300.21,Health,1,21,Doña Maria
+3345,Pie Shell - 5,86911.34,Computers,69,22,Recreational Products/Toys
+3350,Gatorade - Fruit Punch,28397.86,Grocery,13,23,Electrical Products
+3355,Beer - Muskoka Cream Ale,55982.85,Garden,20,24,Tiendita La Abuela
+3360,  Soup - Knorr,28658.62,Sports,21,25,RETAIL: Building Materials
+3365,  Wine - White,64512.90,Beauty,57,26,Fluid Controls
+3370,Muffin Batt - Choc Chk,72125.23,Electronics,60,27,Marine Transportation
+3375,Silicone Parch. 16.3x24.3,30682.54,Sports,9,28,Ophthalmic Goods
+3380,Roe - Flying Fish,60632.56,Home,66,28,Ophthalmic Goods
+3385,Tea - Lemon Green Tea,13562.97,Automotive,4,27,Marine Transportation
+3390,Tea - Orange Pekoe,38193.05,Automotive,30,26,Fluid Controls
+3395,  Doilies - 12,35664.34,Garden,14,25,RETAIL: Building Materials
+3400,Pomegranates,12694.50,Industrial,38,24,Tiendita La Abuela
+3405,Pork - Side Ribs,15880.27,Tools,43,23,Electrical Products
+3410,  Pasta - Penne Primavera,97650.42,Music,63,22,Recreational Products/Toys
+3415,Veal - Ground,81160.55,Books,60,21,Doña Maria
+3420,Beer - Creemore,98817.16,Games,33,20,Major Banks
+3425,Lettuce - Escarole,48057.77,Clothing,68,19,SAO
+3430,Mackerel Whole Fresh,41224.24,Outdoors,2,18,Mercamos
+3435,Sauce - Hollandaise,75627.77,Industrial,7,17,Biotechnology: Commercial Physical & Biological Resarch
+3440,Eggplant - Asian,53819.84,Books,30,16,Olimpica
+3445,Vinegar - Sherry,20081.02,Clothing,4,15,Shoe Manufacturing
+3450,Chick Peas - Dried,22809.32,Outdoors,12,14,Natural Gas Distribution
+3455,Puree - Guava,72019.19,Beauty,68,13,Construction/Ag Equipment/Trucks
+3460,Yeast Dry - Fleischman,85789.08,Outdoors,63,12,Ara
+3465,Cranberry Foccacia,77363.82,Music,4,11,Brooklyn Store
+3470,Star Fruit,45637.27,Sports,24,10,Shoe Manufacturing
+3475,Pasta - Canelloni,72558.53,Games,39,9,Investment Bankers/Brokers/Service
+3480,Raisin - Golden,19326.42,Clothing,26,8,D1
+3485,Spice - Onion Powder Granulated,27001.36,Automotive,50,7,Major Pharmaceuticals
+3490,  Roe - Lump Fish,64947.40,Industrial,54,6,Tienda Pepito
+3495,Pomegranates,47522.18,Electronics,26,5,Specialty Foods
+3500,Tilapia - Fillets,50423.98,Toys,58,4,Real Estate
+3505,Wine - Riesling Dr. Pauly,43051.80,Clothing,18,3,EDP Services
+3510,Chocolate Bar - Coffee Crisp,22043.97,Movies,35,2,Radio And Television Broadcasting And Communications Equipment
+3515,Wine - Crozes Hermitage E.,21254.44,Garden,39,1,Industrial Specialties
+3520,Lemon Pepper,73324.89,Shoes,37,28,Ophthalmic Goods
+3525,Filling - Mince Meat,59691.52,Garden,3,27,Marine Transportation
+3530,Pail For Lid 1537,89511.92,Computers,68,26,Fluid Controls
+3535,  Fish - Soup Base,39735.21,Music,52,25,RETAIL: Building Materials
+3540,Bread - Triangle White,64543.97,Music,15,24,Tiendita La Abuela
+3545,Tea - Vanilla Chai,5338.17,Computers,2,23,Electrical Products
+3550,Rootbeer,69615.18,Home,47,22,Recreational Products/Toys
+3555,Lime Cordial - Roses,44420.79,Movies,25,21,Doña Maria
+3560,  Bread - Roll,48227.13,Toys,37,20,Major Banks
+3565,Sauce - Roasted Red Pepper,63251.84,Automotive,2,19,SAO
+3570,Glove - Cutting,21277.74,Jewelery,26,18,Mercamos
+3575,Sea Bass - Fillets,80511.06,Movies,70,17,Biotechnology: Commercial Physical & Biological Resarch
+3580,  Croissant,36959.96,Books,65,16,Olimpica
+3585,Pork Salted Bellies,13002.05,Shoes,18,15,Shoe Manufacturing
+3590,Coconut - Whole,50323.61,Kids,55,14,Natural Gas Distribution
+3595,Coffee - Decaffeinato Coffee,64422.39,Automotive,18,13,Construction/Ag Equipment/Trucks
+3600,Foil Wrap,70941.32,Baby,14,12,Ara
+3605,Miso - Soy Bean Paste,77983.84,Computers,19,11,Brooklyn Store
+3610,Sprouts - Baby Pea Tendrils,92000.87,Industrial,8,10,Shoe Manufacturing
+3615,  Wine - Red,74512.67,Outdoors,18,9,Investment Bankers/Brokers/Service
+3620,Chicken - Tenderloin,87088.86,Electronics,10,8,D1
+3625,  Clams - Littleneck,30738.42,Home,49,7,Major Pharmaceuticals
+3630,Hog / Sausage Casing - Pork,65400.67,Outdoors,0,6,Tienda Pepito
+3635,  Veal - Brisket,14672.80,Home,25,5,Specialty Foods
+3640,Magnotta Bel Paese Red,94139.62,Books,64,4,Real Estate
+3645,Puree - Kiwi,52834.15,Music,1,3,EDP Services
+3650,Tea - Lemon Scented,1879.13,Garden,21,2,Radio And Television Broadcasting And Communications Equipment
+3655,Flour - Masa De Harina Mexican,46689.84,Garden,23,1,Industrial Specialties
+3660,Mushrooms - Honey,66090.57,Games,19,1,Industrial Specialties
+3665,Veal - Slab Bacon,33116.84,Sports,27,2,Radio And Television Broadcasting And Communications Equipment
+3670,Goldschalger,76080.59,Outdoors,19,3,EDP Services
+3675,Cheese - Mascarpone,10773.92,Industrial,9,4,Real Estate
+3680,Baking Powder,14425.65,Shoes,24,5,Specialty Foods
+3685,Salt - Kosher,66019.54,Health,39,6,Tienda Pepito
+3690,  Pepper - Black,51132.44,Electronics,2,7,Major Pharmaceuticals
+3695,Liquid Aminios Acid - Braggs,82241.39,Automotive,50,8,D1
+3700,Arizona - Green Tea,80629.55,Computers,58,9,Investment Bankers/Brokers/Service
+3705,  Pesto - Primerba,17655.22,Clothing,51,10,Shoe Manufacturing
+3710,Syrup - Kahlua Chocolate,37928.09,Music,35,11,Brooklyn Store
+3715,Cocktail Napkin Blue,40735.45,Sports,16,12,Ara
+3720,Currants,55869.05,Clothing,57,13,Construction/Ag Equipment/Trucks
+3725,Chickensplit Half,22289.22,Health,24,14,Natural Gas Distribution
+3730,Rhubarb,99950.89,Baby,2,15,Shoe Manufacturing
+3735,Wine - Toasted Head,45188.15,Movies,46,16,Olimpica
+3740,  Croissant,38193.69,Baby,24,17,Biotechnology: Commercial Physical & Biological Resarch
+3745,  Pasta - Lasagna,71409.44,Beauty,54,18,Mercamos
+3750,  Yogurt - Cherry,59673.33,Grocery,4,19,SAO
+3755,Tray - 12in Rnd Blk,41117.90,Grocery,0,20,Major Banks
+3760,  Vodka - Lemon,75935.47,Health,10,21,Doña Maria
+3765,Wine - Rosso Del Veronese Igt,55390.48,Beauty,30,22,Recreational Products/Toys
+3770,Chocolate,55390.48,Beauty,30,22,Recreational Products/Toys

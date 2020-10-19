@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sara Castaño/Downloads/postgresql-9.4.1208.jre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara Castaño/Downloads/slf4j-simple-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara Castaño/Downloads/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara Castaño/Downloads/amqp-client-5.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara Castaño/Downloads/jar_files/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara Castaño/Downloads/jar_files/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara Castaño/Downloads/jar_files/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
