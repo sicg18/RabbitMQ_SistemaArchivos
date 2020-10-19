@@ -1,0 +1,55 @@
+
+-- -----------------------------------------------------
+-- Crear base de datos
+-- -----------------------------------------------------
+
+create database venta;
+
+-- -----------------------------------------------------
+-- Table categoria
+-- -----------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS categoria (
+  idcategoria INT NOT NULL GENERATED ALWAYS AS IDENTITY,
+  nombrecategoria VARCHAR(100) NOT NULL,
+  PRIMARY KEY (idcategoria));
+
+CREATE UNIQUE INDEX CONCURRENTLY nombre_categoria_unique ON categoria(nombrecategoria );
+-- -----------------------------------------------------
+-- Table producto
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS producto (
+  idproducto VARCHAR NOT NULL,
+  nombreproducto VARCHAR(100) NOT NULL,
+  idcategoria INT NOT NULL,
+  PRIMARY KEY (idproducto),
+    FOREIGN KEY (idcategoria)
+    REFERENCES categoria (idcategoria)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE);
+
+-- -----------------------------------------------------
+-- Table tienda
+-- -----------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS tienda (
+  idtienda INT NOT NULL,
+  nombretienda VARCHAR(100) NOT NULL,
+  PRIMARY KEY (idtienda));
+
+-- -----------------------------------------------------
+-- Table producto_tienda
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS producto_tienda (
+  producto_idproducto VARCHAR NOT NULL,
+  tienda_idtienda INT NOT NULL,
+  precioproducto VARCHAR(45) NOT NULL,
+  PRIMARY KEY (producto_idproducto,tienda_idtienda),
+    FOREIGN KEY (producto_idproducto)
+    REFERENCES producto (idproducto)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE,
+    FOREIGN KEY (tienda_idtienda)
+    REFERENCES tienda (idtienda)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE);

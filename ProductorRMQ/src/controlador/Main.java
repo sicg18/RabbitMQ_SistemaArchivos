@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		File directorioActual = new File("");
-		String ayudante = directorioActual.getAbsolutePath() + "\\src\\recursos\\Csv_Archivo\\datas.csv";
+		String ayudante = directorioActual.getAbsolutePath() + "\\src\\recursos\\Csv_Archivo\\datis.csv";
 		try {
 			ArrayList<String> lista = (ArrayList<String>) Files.readAllLines(Paths.get(ayudante));
 			lista.remove(0);
